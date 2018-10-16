@@ -2,19 +2,18 @@
 > ###von Simon Zweimüller, Simon Jehart und Leon Tea
 <br>
 ##Ausgangssituation
->Beim Browser Spiel "Bubble Struggle" versucht der Spieler in den verschiedenen Levels alle Bälle abzuschießen und zu zerteilen bis sie verschwinden.
+>Das Browser Spiel "Slither.io" funktioniert prinzipiell wie Snake nur spielt man gegen andere Spieler.
 <br>
 ##Problemstellung
->* Man benötigt Flash um es spielen zu können.
-* Es gibt lediglich einen Lokalen Multiplayer.
-* Level sind fix vorgegeben und man kann nicht seine eigenen erstellen.
+>* Keine Abwechslung.
+* Keine Interaktion mit anderen Spielern.
+* Schlecht mit Freunden spielbar.
 <br>
 ##Aufgabenstellung
 > * Das Grundprinzip des Spiels übernehmen und Programmieren. Verbesserungsvorschläge die wir in der Problemstellung erläutert haben besser umsetzen und in das Spiel einbauen. 
-* Multiplayer einbauen.
-* Das Spiel ohne Flash ausführbar machen.
-* Editor einbauen mit dem der Benutzer seine eigenen Level erstellen kann.
-* Verbesserte Personalisierung seines Charakters im Spiel.
+* Möglichkeiten für das spielen im Team einbauen.
+* Verschiedene Items hinzufügen.
+* Strukturen auf der Karte.
 <br>
 ##Nutzen
 > * Mehr Spielspaß für Benutzer vorallem mit Mitspielern.
@@ -23,9 +22,5 @@
 <br>
 ##Konsequenzen bei nicht durchführung
 > * Schlechte Note.
-
-
-[Link zum Spiel](https://www.spielkarussell.de/bubble-struggle.htm)
-
 
 
